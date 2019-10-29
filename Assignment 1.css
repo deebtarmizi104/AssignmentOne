@@ -8,11 +8,11 @@
   clip-path: polygon(100% 50%, 0 0, 0 99%);
   float: left;
 }
-.grid-container{
+/* .grid-container{
   display: grid;
   grid-template-columns: auto auto;
   padding-left: 400px;
-}
+} */
 .box{
   text-align: left;
   padding-left: 400px;
