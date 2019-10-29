@@ -2,7 +2,9 @@
   font-family: Arial;
 }
 #iium{
-
+  position: absolute;
+  top: 8px;
+  right: 16px;
 }
 #river{
   clip-path: polygon(100% 50%, 0 0, 0 99%);
